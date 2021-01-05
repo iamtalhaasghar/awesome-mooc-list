@@ -1,0 +1,220 @@
+1 - Getting Started with the Course: Introduction to the Course
+2 - Getting Started with the Course: Introduction to the Course Instructor
+3 - Getting Started with the Course: How is this Course Structured?
+4 - Getting Started with the Course: Who is this Course for?
+5 - Introduction to Google & SEO: What is Search? Why is Search so Important?
+6 - Introduction to Google & SEO: How many Search Engines are there? Which Search Engines are Important?
+7 - Introduction to Google & SEO: What is Google? Is it only a Search Engine or a Company?
+8 - Introduction to Google & SEO: History of Google & Bing Search Engines
+9 - Introduction to Google & SEO: How Google Search Works?
+10 - Introduction to Google & SEO: What is Search Engine Optimization?
+11 - Introduction to Google & SEO: What are SEO Ranking Factors?
+12 - Introduction to Google & SEO: On-page Optimization vs. Off-page Optimization
+13 - Introduction to Google & SEO: Search vs. Social vs. Digital Marketing
+14 - Introduction to Google & SEO: White Hat vs. Grey Hat vs. Black Hat SEO
+15 - Introduction to Google & SEO: Organic SEO vs. SEM
+16 - Introduction to Google & SEO: How is SEO Profession Different than Development and Design
+17 - Why Google?: What is Content?
+18 - Why Google?: What is Google's Mission?
+19 - Why Google?: Difference between a Search Engine & an Answer Engine?
+20 - Why Google?: Google's Approach to Search
+21 - Why Google?: Google Search Page Structure
+22 - Why Google?: What makes Google the Best Search Engine?
+23 - SEO in the broader Digital Marketing Sphere: Digital Media & SEO
+24 - SEO in the broader Digital Marketing Sphere: What is a Loyalty Loop and How can SEO help in getting Prospects?
+25 - SEO in the broader Digital Marketing Sphere:What is PESO Model?
+26 - SEO in the broader Digital Marketing Sphere: What is Outbound Marketing?
+27 - SEO in the broader Digital Marketing Sphere: What is Inbound Marketing?
+28 - SEO in the broader Digital Marketing Sphere: Difference between Inbound Marketing and Outbound Marketing
+29 - SEO in the broader Digital Marketing Sphere: How does Search play a role in Successful Inbound Marketing?
+30 - SEO: Keyword Research - Introduction to Keywords
+31 - SEO: Keyword Research - Types of Keywords
+32 - SEO: Keyword Research - What is Keyword Research?
+33 - SEO: Keyword Research - Google Ads Account for Keyword Planner Tool
+34 - SEO: Keyword Research - Understanding Google Ads Keyword Planner Tool
+35 - SEO: Keyword Research - How to Research Keywords with Free Google Ads Keyword Planner?
+36 - SEO: Keyword Research - Organize your Keyword Research
+37 - SEO: Keyword Research - Link your Keyword Research with your Business Goals
+38 - SEO: Keyword Research - Expand the Keyword Research into Synonyms
+39 - SEO: Keyword Research - Clean up your Data from Duplicates
+40 - SEO: Keyword Research - Understand the Commerciality of the Keywords
+41 - SEO: Keyword Research - Shortlist the right Keywords into Groups?
+42 - SEO: Keyword Research - Try not to Overlap the Keywords
+43 - SEO: Keyword Research - Keyword Research with some other Free and Paid Tools
+44 - SEO: Keyword Research - Keyword Research Case Study 1
+45 - SEO: Keyword Research - Keyword Research Case Study 2
+46 - SEO: Keyword Research - Keyword Research Case Study 3
+47 - Basics of Creating Content for a Website: What is a Website? How a Website is Structured?
+48 - Basics of Creating Content for a Website: Difference between Domain and Hosting
+49 - Basics of Creating Content for a Website: What is HTML? Why is it Important?
+50 - Basics of Creating Content for a Website: What is a CMS? Why is it Important?
+51 - Basics of Creating Content for a Website: Home Page - The most Important Page
+52 - Basics of Creating Content for a Website: Product & Service Pages - The Money Pages
+53 - Basics of Creating Content for a Website: About, Contact and Team Pages - Brand Value and Information
+54 - Basics of Creating Content for a Website: Number of Pages
+55 - Basics of Creating Content for a Website: Are single page websites good for SEO?
+56 - Getting started with On-page Optimization in SEO: What is On-page Optimization?
+57 - Getting started with On-page Optimization in SEO: How Important is On-page Optimization?
+58 - Getting started with On-page Optimization in SEO: What is Included in On-page Optimization?
+59 - SEO: On-page Optimization - Page-Level Factors: What are HTML Meta Tags?
+60 - SEO: On-page Optimization - Page-Level Factors: Keywords in HTML Meta Tags
+61 - SEO: On-page Optimization - Page-Level Factors: Creating Website Content with Shortlisted Keywords
+62 - SEO: On-page Optimization - Page-Level Factors: Importance of Language in Content
+63 - SEO: On-page Optimization - Page-Level Factors: Optimizing Content with Keywords & Synonyms
+64 - SEO: On-page Optimization - Page-Level Factors: Length of the Content
+65 - SEO: On-page Optimization - Page-Level Factors: Content Headings (H1-H6)
+66 - SEO: On-page Optimization - Page-Level Factors: Dividing Content into Sections
+67 - SEO: On-page Optimization - Page-Level Factors: LSI Keywords in Content
+68 - SEO: On-page Optimization - Image SEO: Importance of Images
+69 - SEO: On-page Optimization - Image SEO: Image Types and Sizes
+70 - SEO: On-page Optimization - Image SEO: ALT Tags for Images
+71 - SEO: On-page Optimization - Image SEO: Descriptive Titles, Captions, & Text for images
+72 - SEO: On-page Optimization - Image SEO: Image File Name & URLs
+73 - SEO: On-page Optimization - Image SEO: Relevancy & Quality of the Images
+74 - SEO: On-page Optimization - Image SEO: Optimize Placement
+75 - SEO: On-page Optimization - Image SEO: Optimize Images for speed & Responsiveness
+76 - SEO: On-page Optimization - Image SEO: Use an Image Sitemap
+77 - SEO: On-page Optimization - SITE-LEVEL Factors: Website Structure & its Importance
+78 - SEO: On-page Optimization - SITE-LEVEL Factors: SEO/Human Friendly URLs
+79 - SEO: On-page Optimization - SITE-LEVEL Factors: HTML Sitemaps
+80 - SEO: On-page Optimization - SITE-LEVEL Factors: XML Sitemaps
+81 - SEO: On-page Optimization - SITE-LEVEL Factors: Internal Linking
+82 - SEO: On-page Optimization - SITE-LEVEL Factors: Website UpTime & Security
+83 - SEO: On-page Optimization - SITE-LEVEL Factors: Too Many Links to Other Websites
+84 - SEO: On-page Optimization - SITE-LEVEL Factors: Breadcrumb Navigation
+85 - SEO: On-page Optimization - SITE-LEVEL Factors: Robots.txt
+86 - SEO: On-page Optimization - Advanced Content Optimization: Content Recency and Frequency
+87 - SEO: On-page Optimization - Advanced Content Optimization: Blog - The Value Pages
+88 - SEO: On-page Optimization - Advanced Content Optimization: Ebooks, Guides, Tools and Other Value Pages
+89 - SEO: On-page Optimization - Advanced Content Optimization: What is Content Duplication? How important is it?
+90 - SEO: On-page Optimization - Advanced Content Optimization: Fixing Content Duplication with 301 Redirects
+91 - SEO: On-page Optimization - Advanced Content Optimization: Avoiding Content Duplication with Canonical Tag
+92 - SEO: On-page Optimization - Advanced Content Optimization: Controlling Indexing with Robots.txt File
+93 - SEO: On-page Optimization - Domain Factors: What are SEO Domain Factors?
+94 - SEO: On-page Optimization - Domain Factors: Difference between TLD, Domain and Sub-Domain
+95 - SEO: On-page Optimization - Domain Factors: Local or Country TLD Extension
+96 - SEO: On-page Optimization - Domain Factors: Keywords in the Domain
+97 - SEO: On-page Optimization - Domain Factors: Age of the Domain, Ownership and History
+98 - SEO: On-page Optimization - Advanced Factors: What are the Advanced On-page Optimization Factors
+99 - SEO: On-page Optimization - Advanced Factors: Better Website Layout & User Experience
+100 - SEO: On-page Optimization - Advanced Factors: Broken URLs and How to fix them
+101 - SEO: On-page Optimization - Advanced Factors: Page Loading Speed
+102 - SEO: On-page Optimization - Advanced Factors: Mobile Friendly Websites
+103 - SEO: On-page Optimization - Advanced Factors: AMP for Websites
+104 - SEO: On-page Optimization - Advanced Factors: What are Rich Snippets or Structured Data?
+105 - SEO: On-page Optimization - Advanced Factors: Testing Structured Data Markup or Rich Snippets
+106 - SEO: On-page Optimization - Advanced Factors: Rich Snippets: Business or Company
+107 - SEO: On-page Optimization - Advanced Factors: Rich Snippets: Person
+108 - SEO: On-page Optimization - Advanced Factors: Rich Snippets: Recipe
+109 - SEO: On-page Optimization - Advanced Factors: Rich Snippets: Reviews
+110 - SEO: On-page Optimization - Advanced Factors: Social SEO - Facebook Meta Tags
+111 - SEO: On-page Optimization - Advanced Factors: Social SEO - Twitter Meta Tags
+112 - SEO: On-page Optimization - Advanced Factors: Secure your Site with HTTPS
+113 - SEO: Off Page Optimization or Link Building: What is Off-Page Optimization or Link Building?
+114 - SEO: Off Page Optimization or Link Building: Different Types of Backlinks
+115 - SEO: Off Page Optimization or Link Building: Elements of a Backlink
+116 - SEO: Off Page Optimization or Link Building: What are NoFollow Links?
+117 - SEO: Off Page Optimization or Link Building: Characteristics of Linking Domain
+118 - SEO: Off Page Optimization or Link Building: Characteristics of Linking Page
+119 - SEO: Off Page Optimization or Link Building: Diversity of Link Types
+120 - SEO: Off Page Optimization or Link Building: Characteristics of Backlinks
+121 - SEO: Off Page Optimization or Link Building: Link Building Techniques
+122 - SEO: Off Page Optimization or Link Building: How to get Links Naturally?
+123 - SEO: Off Page Optimization or Link Building: Content Curation & Link Building
+124 - SEO: Off Page Optimization or Link Building: Get Links by Offering Free Tools
+125 - SEO: Off Page Optimization or Link Building: Do Paid Links Work in the Long Run?
+126 - SEO: Off Page Optimization or Link Building: Can Links Shared on Social Media be considered Backlinks?
+127 - SEO: Off Page Optimization or Link Building: Avoid Black Hat Link Building Techniques
+128 - SEO: Website Audit & Analysis: What is a Website Audit?
+129 - SEO: Website Audit & Analysis: How to Audit a Website for SEO?
+130 - SEO: Website Audit & Analysis: Understanding SEO Quake Chrome Extension - PART 1
+131 - SEO: Website Audit & Analysis: Understanding SEO Quake Chrome Extension - PART 2
+132 - SEO: Website Audit & Analysis: Creating a Basic Audit Report for Initial Review
+133 - Advanced SEO: Hands-on with Essential Tools: Google Webmaster Tools
+134 - Advanced SEO: Hands-on with Essential Tools: Bing Webmaster Tools
+135 - Advanced SEO: Hands-on with Essential Tools: Google PageSpeed Insights Tool
+136 - Advanced SEO: Hands-on with Essential Tools: Google Mobile Friendly Testing Tool
+137 - Advanced SEO: Hands-on with Essential Tools: AMP Validator
+138 - Advanced SEO: Hands-on with Essential Tools: Google Lighthouse
+139 - Advanced SEO: Hands-on with Essential Tools: W3C HTML Validator
+140 - Advanced SEO: Hands-on with Essential Tools: Analysing Your SEO with Google Analytics
+141 - SEO Project Management: What is SEO Project Management?
+142 - SEO Project Management: SEO for Clients vs. SEO for your Own Website
+143 - SEO Project Management: What steps are included in SEO Project Management?
+144 - SEO Project Management: Step 1 - Create a List of Relevant Keywords
+145 - SEO Project Management: Step 2 - Map Out Focus Keywords for Specific Pages
+146 - SEO Project Management: Step 3 - SEO Optimize each Page with Keywords
+147 - SEO Project Management: Step 4 - Create a Blog for Long Tail Keywords
+148 - SEO Project Management: Step 5 - Create a Link Building Plan
+149 - SEO Project Management: Step 6 - Stay Current - Always Update Content to Outmatch the Competition
+150 - SEO Project Management: Step 7 - Keep Track of Your Rankings & Progress
+151 - SEO Project Management: Step 8 - SEO Reporting & Client Communication
+152 - SEO Project Management: Step 9 - Keep Monitoring Your Competitors
+153 - SEO Project Management: Step 10 - Innovate and Think of New Ideas to Keep Your Content Up-to-Date
+154 - Advanced SEO: Official Google Webmaster Guidelines - General Guidelines: Help Google find your Pages
+155 - Advanced SEO: Official Google Webmaster Guidelines - General Guidelines: Help Google Understand your Pages
+156 - Advanced SEO: Official Google Webmaster Guidelines - General Guidelines: Help Visitors Use your Pages
+157 - Advanced SEO: Official Google Webmaster Guidelines - Quality Guidelines: Content
+158 - Advanced SEO: Official Google Webmaster Guidelines - Specific Guidelines: Avoid these Techniques
+159 - Advanced SEO: Official Google Webmaster Guidelines - Manual Actions Report
+160 - Advanced SEO: Official Google Webmaster Guidelines - Submitting a Reconsideration Request for Penalised Website
+161 - Advanced SEO: Official Bing Webmaster Guidelines - Main SEO Factors
+162 - Advanced SEO: Official Bing Webmaster Guidelines - Technical SEO
+163 - Advanced SEO: Official Bing Webmaster Guidelines - On-Page SEO
+164 - Advanced SEO: Deep Dive - Researching Keywords with Google Trends
+165 - Advanced SEO: Deep Dive - Google Suggested Keywords
+166 - Advanced SEO: Deep Dive - Keywords from Competitors' Websites
+167 - Advanced SEO: Deep Dive - Advanced Google Search Operators
+168 - Advanced SEO: Deep Dive - What are Search Operators?
+169 - Advanced SEO: Deep Dive - Some Important Search Operators
+170 - Advanced SEO: Local SEO - What are Google Maps?
+171 - Advanced SEO: Local SEO - What is Local SEO?
+172 - Advanced SEO: Local SEO - Signup for Google My Business
+173 - Advanced SEO: Local SEO - Getting around Google My Business
+174 - Advanced SEO: Local SEO - Local SEO Ranking Signals
+175 - Advanced SEO: Local SEO - Negative Local SEO Factors
+176 - Advanced SEO: Video SEO - What is Video SEO? How is it different from Traditional SEO?
+177 - Advanced SEO: Video SEO - What makes YouTube the 2nd biggest Search Engine
+178 - Advanced SEO: Video SEO - Most popular Types of Search Queries that show Video as a result in Google
+179 - Advanced SEO: Video SEO - Different Methods to Create Video Content
+180 - Advanced SEO: Video SEO - Keywords Research for Videos
+181 - Advanced SEO: Video SEO - Main Video SEO Ranking Factors
+182 - Advanced SEO: Video SEO - How to use Video to Outrank your Competition?
+183 - Advanced SEO: Video SEO - Videos on Social Media vs. Videos on YouTube
+184 - Advanced SEO: Video SEO - Best Practices for Video SEO by Google
+185 - Advanced SEO: Multilingual & Multi-Regional SEO: What is the difference between Multiregional and Multilingual Websites
+186 - Advanced SEO: Multilingual & Multi-Regional SEO: Managing Multilingual Versions of your Website
+187 - Advanced SEO: Multilingual & Multi-Regional SEO: Targeting Site Content to a Specific Country (GeoTargeting)
+188 - Advanced SEO: Mobile SEO - What is Mobile SEO or ASO?
+189 - Advanced SEO: Mobile SEO - Structure of Android and Apple App Stores
+190 - Advanced SEO: Mobile SEO - App Store Policies
+191 - Advanced SEO: Mobile SEO - ASO: Keyword Research
+192 - Advanced SEO: Mobile SEO - ASO: App Title
+193 - Advanced SEO: Mobile SEO - ASO: App Icon
+194 - Advanced SEO: Mobile SEO - ASO: App Screenshots
+195 - Advanced SEO: Mobile SEO - ASO: App Description
+196 - Advanced SEO: Mobile SEO - ASO: Preview Video
+197 - Advanced SEO: Mobile SEO - ASO: Ratings & Reviews
+198 - Advanced SEO: Mobile SEO - ASO: Retention
+199 - Advanced SEO: Mobile SEO - ASO: Competitive Analysis
+200 - Advanced SEO: Mobile SEO - Popular tools for ASO
+201 - Advanced SEO: Mobile SEO - ASO: Tips & Tricks
+202 - Myths & Misconceptions about Search Engines: Google will be Dead as a Company Soon
+203 - Myths & Misconceptions about Search Engines: Is SEO Dead?
+204 - Myths & Misconceptions about Search Engines: Paid Search Helps Bolster Organic Results
+205 - Myths & Misconceptions about Search Engines: You can Pay Google to Rank High
+206 - Myths & Misconceptions about Search Engines: Companies who Have Relations with Google, Rank Higher
+207 - Myths & Misconceptions about Search Engines: SEO Professionals claiming to Rank you in 3 to 6 months
+208 - Future Predictions: Voice based SEO
+209 - Future Predictions: Search in the Era of Personal Assistants
+210 - Future Predictions: Machine Learning & Artificial Intelligence
+211 - Hands-on Case Studies: Live Audit of Website 1
+212 - Hands-on Case Studies: Live Audit of Website 2
+213 - Earning with SEO: Different Ways to Earn with SEO
+214 - Earning with SEO: How do People Hire SEO Professionals?
+215 - Earning with SEO: How to Qualify a Good SEO Project on UpWork
+216 - Earning with SEO: How to Price your SEO Services
+217 - Earning with SEO: What not to do when Sending a CV to any Company
+218 - Top SEO & Marketing news to Follow
+219 - Top SEO Marketing Authority and Experts to Follow
+220 - Closing: Closing Remarks & Key Takeaways

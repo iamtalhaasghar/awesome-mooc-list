@@ -1,0 +1,215 @@
+1 - About Me: Who am I?
+2 - About Me: How did I start freelancing?
+3 - About Me: Why you should learn from me?
+4 - About Me: What am I going to teach you?
+5 - About Me: How can I be contacted?
+6 - Introduction to Freelancing: What is Freelancing?
+7 - Introduction to Freelancing: Types of Freelance marketplaces
+8 - Introduction to Freelancing: Major Freelance Marketplaces
+9 - Introduction to Freelancing: Why Freelancing?
+10 - Introduction to Freelancing: Advantages of Freelancing
+11 - Introduction to Freelancing: Disadvantages of Freelancing
+12 - Introduction to Freelancing: What is the key to success?
+13 - Introduction to Freelancing: Freelancer vs Office Worker
+14 - Choose Your Craft (Skills): What skills do you have?
+15 - Choose Your Craft (Skills): Following your passion - good or bad advice?
+16 - Choose Your Craft (Skills): How to Have Self-Discipline?
+17 - Choose Your Craft (Skills): Define Your Goals
+18 - Choose Your Craft (Skills): What skill excites you?
+19 - Choose Your Craft (Skills): How to learn a new skill?
+20 - Choose Your Craft (Skills): The importance of YouTube for Freelance, free learning
+21 - Choose Your Craft (Skills): How to Practice your skill?
+22 - What Will I Learn?: Avoid all Freelancing Career mistakes
+23 - What Will I Learn?: Learn how to win your Client's trust
+24 - What Will I Learn?: How to set high hourly rates in Freelance Profile?
+25 - What Will I Learn?: Charge more to your Freelance clients
+26 - What Will I Learn?: How to trick the Freelance system if you are stuck?
+27 - What sets you apart as a Freelancer?: Level of Skill
+28 - What sets you apart as a Freelancer?: Communication Skills
+29 - What sets you apart as a Freelancer?: Speed of response
+30 - What sets you apart as a Freelancer?: Professional Behavior
+31 - What sets you apart as a Freelancer?: Presenting your work
+32 - What sets you apart as a Freelancer?: Defining Project deliverables
+33 - What sets you apart as a Freelancer?: Top In Demand Skills in 2020
+34 - Mistakes and Problems every Freelancer face: Which project should I take?
+35 - Mistakes and Problems every Freelancer face: Pricing yourself
+36 - Mistakes and Problems every Freelancer face: Calculate hours
+37 - Mistakes and Problems every Freelancer face: How to manage time?
+38 - Mistakes and Problems every Freelancer face: Work life balance for Freelancers
+39 - Mistakes and Problems every Freelancer face: Freelancing Behaviour
+40 - Mistakes and Problems every Freelancer face: Setting project scope in the beginning
+41 - Mistakes and Problems every Freelancer face: Lack of client’s response
+42 - Freelance Job Hunting Skills: Freelance Job Selection
+43 - Freelance Job Hunting Skills: Bidding on the right project
+44 - Freelance Job Hunting Skills: Identifying fake vs original project
+45 - Freelance Job Hunting Skills: Asking questions
+46 - Freelance Job Hunting Skills: Importance of professional response to the project
+47 - Freelance Job Hunting Skills: When to put a premium bid?
+48 - Freelance Job Hunting Skills: High priced projects vs low priced projects
+49 - Types of freelance marketplaces: Traditional freelance marketplace and Nontraditional freelance marketplace
+50 - Types of freelance marketplaces: Upwork
+51 - Types of freelance marketplaces: Freelancer.com
+52 - Types of freelance marketplaces: Fiverr.com
+53 - Types of freelance marketplaces: Guru.com
+54 - Types of freelance marketplaces: PeoplePerHour
+55 - Types of freelance marketplaces: Craigslist
+56 - Types of freelance marketplaces: List of all major freelance marketplaces and their reviews
+57 - Signup and create a Freelance Profile: The 5 ingredients of creating an effective freelance profile
+58 - Signup and create a Freelance Profile: The importance of profile picture
+59 - Signup and create a Freelance Profile: The importance of profile description
+60 - Signup and create a Freelance Profile: The importance of creating portfolio
+61 - Signup and create a Freelance Profile: The importance of creating profile video
+62 - Signup and create a Freelance Profile: How to create a portfolio as a beginner
+63 - Signup and create a Freelance Profile: Feedback and importance of feedback for profile reputation
+64 - Signup and create a Freelance Profile: Creating attractive thumbnails and graphics for your profile
+65 - Setting your payment information: Reason for populating your payment information
+66 - Setting your payment information: Registering your business with FBR
+67 - Setting your payment information: Getting a bank account
+68 - Setting your payment information: Getting IBAN, Swift code
+69 - Setting your payment information: Populating bank wire information
+70 - Introduction to Upwork
+71 - Upwork: Job finding and bidding on the right projects
+72 - Upwork: Membership plans and freelancer programs & perks
+73 - Upwork: Upwork agency and its pros and cons
+74 - Upwork: Payment verification and withdrawal methods
+75 - Introduction to Freelancer.com
+76 - Freelancer: Bidding on projects, bid types and requesting milestone’s payment
+77 - Freelancer: Payment integration and withdrawal methods
+78 - Skrill: Account creation and payment method integration
+79 - How to Find Work on Fiverr (Defining Fiverr): Introduction to Fiverr
+80 - How to Find Work on Fiverr (Defining Fiverr): Importance of profile details on Fiverr
+81 - How to Find Work on Fiverr (Defining Fiverr): How to create a GIG?
+82 - How to Find Work on Fiverr (Defining Fiverr): The importance of keywords
+83 - How to Find Work on Fiverr (Defining Fiverr): The importance of Video for your Gigs
+84 - How to Find Work on Fiverr (Defining Fiverr): Extra offer (time constraint) to get more money
+85 - How to Find Work on Fiverr (Defining Fiverr): The importance of meeting timelines (deliverables)
+86 - How to Find Work on Fiverr (Defining Fiverr): Importance of employer's feedback
+87 - How to Find Work on Fiverr (Defining Fiverr): How to promote your GIG on Fiverr?
+88 - How to Find Work on Fiverr (Defining Fiverr): The importance of multiple Gigs
+89 - How to Find Work on Fiverr (Defining Fiverr): Buyer request and its importance
+90 - Fiverr: Funds withdrawal method (Payoneer)
+91 - Fiverr: Disputes
+92 - Introduction to PeoplePerHour
+93 - PeoplePerHour: Requesting Milestones and Raising Invoice
+94 - How to find Work on Traditional marketplaces (Guru, upwork, freelancer.com): Identifying the project
+95 - How to find Work on Traditional marketplaces (Guru, upwork, freelancer.com): Importance of understanding client’s brief
+96 - How to find Work on Traditional marketplaces (Guru, upwork, freelancer.com): Summarizing client’s brief
+97 - How to find Work on Traditional marketplaces (Guru, upwork, freelancer.com): The 7 parts of effective bidding
+98 - 1- The Beginning of bid response
+99 - 2- Client’s project summary
+100 - 3- Introducing yourself (skill, industry and experience)
+101 - 4- Presenting Portfolio
+102 - 5- Magic trick up your sleeves (surprise)
+103 - i. Free Mock-up
+104 - ii. Asking a Question
+105 - iii. Co-relating with similar work done in the past
+106 - iv. Special offer
+107 - 6- Video creation
+108 - 7- Closing of the bid
+109 - Upwork, Guru and Freelancer policies: Policies of Freelancing Marketplaces
+110 - Upwork, Guru and Freelancer policies: What gets your profile banned?
+111 - Upwork, Guru and Freelancer policies: How to get your profile unbanned?
+112 - Effective time for bidding: What is the best time to bid on a project?
+113 - Effective time for bidding: How soon a response should be submitted?
+114 - Effective time for bidding: Importance of using smartphone for PMB (quick response)
+115 - Samples of effective bidding: Sample A
+116 - Samples of effective bidding: Sample B
+117 - Samples of effective bidding: Sample C
+118 - Importance of PMB: How to craft a response for employer’s message?
+119 - Importance of PMB: How soon a reply should be submitted?
+120 - Importance of PMB: Free offer in the response
+121 - Importance of PMB: Encouraging an interview time setup
+122 - Importance of PMB: Importance of Video
+123 - Importance of PMB: Why message storage in PMB is important?
+124 - Steps for project Award: The first response
+125 - Steps for project Award: Setting up a payment proposal
+126 - Steps for project Award: Requesting Escrow
+127 - Steps for project Award: Defining milestones
+128 - Business Side of Freelancing: How much money can you make?
+129 - Business Side of Freelancing: How much can you charge?
+130 - Business Side of Freelancing: How and when to withdraw money from freelance marketplace?
+131 - Business Side of Freelancing: Why you should refer all your clients to freelance marketplace?
+132 - Business Side of Freelancing: Importance of profile reputation
+133 - Business Side of Freelancing: Making a Tagline for business reputation based on your profile
+134 - Importance of creating a brand: Importance of Creating your business logo (your brand)
+135 - Importance of creating a brand: Importance of creating your website
+136 - Importance of creating a brand: How to create a free website?
+137 - Importance of creating a brand: How to get hosting and a domain name for very low cost?
+138 - Importance of creating a brand: Importance of creating a PDF profile
+139 - Importance of creating a brand: Importance of creating Facebook page
+140 - Importance of creating a brand: Importance of creating business card and stationery (actual and digital)
+141 - Use of Social media to promote your Freelance profile: The business side of social media
+142 - Use of Social media to promote your Freelance profile: How to use Facebook for profile promotion?
+143 - 1- The posts
+144 - 2- The videos
+145 - 3- Live sessions
+146 - 4- Off-topic quotes
+147 - Use of Social media to promote your Freelance profile: The importance of LinkedIn
+148 - Use of Social media to promote your Freelance profile: Paid vs Free promotion
+149 - Inspirational Story: Mudassir Malik (CEO AppsGenii)
+150 - Inspiration Story: Nazia Rasool (Business Development AppsGenii)
+151 - Inspiration Story: Hisham Sarwar (Making a freelance career with no digital skill)
+152 - 4 Cost-cutting habits every freelancer must develop: Tracking
+153 - 4 Cost-cutting habits every freelancer must develop: Using cloud-based software
+154 - 4 Cost-cutting habits every freelancer must develop: Purchasing in bulk
+155 - 4 Cost-cutting habits every freelancer must develop: Saving on utility expenses
+156 - Outsourcing: What is outsourcing?
+157 - Outsourcing: When to think about outsourcing?
+158 - Outsourcing: Using software to keep the check on progress
+159 - Outsourcing: Payment milestones
+160 - Outsourcing: Importance of networking with your outsourced team
+161 - When to hire an in-house team member?: The right time to hire a resource
+162 - When to hire an in-house team member?: The appropriate talent hunt
+163 - When to hire an in-house team member?: Website to hire talent for your work
+164 - When to hire an in-house team member?: How to grow your work and team?
+165 - The Pros of being a freelancer: Compensation
+166 - The Pros of being a freelancer: Work life balance
+167 - The Pros of being a freelancer: Location
+168 - The Pros of being a freelancer: Optimism
+169 - The Pros of being a freelancer: Recession Proof
+170 - The Pros of being a freelancer: Entrepreneurs of the future
+171 - Cons of freelancing: Pessimism
+172 - Cons of freelancing: Profession of freelancing may not prove to be a veritable paradise
+173 - Cons of freelancing: Low productivity
+174 - Cons of freelancing: Better Reward
+175 - Cons of freelancing: No health security
+176 - Cons of freelancing: Stability
+177 - Cons of freelancing: Effected by economic ups and downs
+178 - Lesser Known But Equally Powerful Freelance Websites: 99designs
+179 - Lesser Known But Equally Powerful Freelance Websites: Freelance Writing Gigs
+180 - Lesser Known But Equally Powerful Freelance Websites: Toptal
+181 - Lesser Known But Equally Powerful Freelance Websites: Simply Hired
+182 - Managing Freelance marketplace dispute with employer: What causes a dispute?
+183 - Managing Freelance marketplace dispute with employer: The importance of keeping track of conversation
+184 - Managing Freelance marketplace dispute with employer: When to file a dispute?
+185 - Managing Freelance marketplace dispute with employer: When to get out of a dispute?
+186 - Real Time bidding: A complete real time case study bid for Graphic designer
+187 - Real Time bidding: A complete real time case study bid for Web developer
+188 - Real Time bidding: A complete real time case study bid for Creative writer
+189 - Real Time bidding: A complete real time case study bid for E-Commerce
+190 - Real Time bidding: A complete real time case study bid for AutoCAD
+191 - Real Time bidding: A complete real time case study bid for Administrative job
+192 - What to do when bids don’t attract a response?: How to manage disappointment?
+193 - What to do when bids don’t attract a response?: Think un-orthodox
+194 - What to do when bids don’t attract a response?: Go back to previous clients
+195 - What to do when bids don’t attract a response?: Give an amazing offer
+196 - What to do when bids don’t attract a response?: Check your bid time, PMB response
+197 - How to win your first client as a freelancer?: Self confidence
+198 - How to win your first client as a freelancer?: Mastering a skill and knowledge
+199 - How to win your first client as a freelancer?: The amazing formula of landing your first project
+200 - Importance of using software for project management: Why software?
+201 - Importance of using software for project management: What are the best software for project management?
+202 - Difference between a freelancer and a home-based service business: The balanced, logical differentiation
+203 - Difference between a freelancer and a home-based service business: Decide what you want to offer
+204 - Difference between a freelancer and a home-based service business: The target market
+205 - Difference between a freelancer and a home-based service business: Reach out to your target market
+206 - Feedback and Client Retention: Why is a project feedback important?
+207 - Feedback and Client Retention: The importance of client retention
+208 - Feedback and Client Retention: How to reach out to your existing clients?
+209 - Importance of Taking tests and certifications: Why is marketplace test important?
+210 - Importance of Taking tests and certifications: What are the advantages of certifications?
+211 - Conclusion: Emphasis on freelancing
+212 - Conclusion: Your role in taking up freelancing and improving Pakistan’s ranking
+213 - Conclusion: Increase in foreign remittance
+214 - Conclusion: Pakistan’s role in global IT world
+215 - Biggest Give Away: My book ‘How I made One Million US$ doing Freelancing’
