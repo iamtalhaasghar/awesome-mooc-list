@@ -15,3 +15,8 @@ This repo contains the list of mooc (massive open online) courses i have done so
 	* [View Certificate](https://www.bitdegree.org/certificates/12277ec8-0f34-4b8b-bfe1-24dac39f564b)
 3. [Introduction to Blockchain: Quick Guide Exploring Blockchain](https://www.bitdegree.org/user/course/introduction-to-blockchain-quick-guide-exploring-blockchain)
 	* [View Certificate](https://www.bitdegree.org/certificates/7d2de4f8-6947-489e-bc63-a22195f27e84)
+# [Deep Learning Tech](https://www.youtube.com/c/DeepLearningTech)
+1. [Foundations of Artificial Intelligence](https://www.youtube.com/playlist?list=PLzTwljMDC2vw_najv2N7s_Ey_XXtNnu1k)
+	* [View Certificate](https://github.com/iamtalhaasghar/My-Certificates/blob/master/Deep%20Learning%20Tech/Foundations%20of%20Artificial%20Intelligence.pdf)
+2. [Machine Learning Models](https://www.youtube.com/playlist?list=PLzTwljMDC2vxii9s2Nr_fehMBoWXTtjpu)
+	* [View Certificate](https://github.com/iamtalhaasghar/My-Certificates/blob/master/Deep%20Learning%20Tech/MACHINE%20LEARNING.png)
