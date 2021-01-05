@@ -8,4 +8,10 @@ This repo contains the list of mooc (massive open online) courses i have done so
 	* [View Video List](https://github.com/iamtalhaasghar/courses-i-have-done/blob/master/resources/Digiskills%20SEO%20by%20Sir%20Usman%20Latif.txt)
 # [Techlore](https://techlore.tech/)
 1. [Go Incognito - A guide to Security Privacy & Anonymity](https://techlore.tech/goincognito.html)
-
+# [Bitdegree](https://www.bitdegree.org/user/talhaprogrammer/profile)
+1. [How to Do Online Trading: A Complete Newbie Guide](https://www.bitdegree.org/course/how-to-do-online-trading)
+	* [View Certificate](https://www.bitdegree.org/certificates/8af17070-0306-4d16-807d-ae6ae30cd6a7)
+2. [Learn Solidity with Space Doggo: an Interactive Solidity Tutorial](https://www.bitdegree.org/course/learn-solidity-space-doggos)
+	* [View Certificate](https://www.bitdegree.org/certificates/12277ec8-0f34-4b8b-bfe1-24dac39f564b)
+3. [Introduction to Blockchain: Quick Guide Exploring Blockchain](https://www.bitdegree.org/user/course/introduction-to-blockchain-quick-guide-exploring-blockchain)
+	* [View Certificate](https://www.bitdegree.org/certificates/7d2de4f8-6947-489e-bc63-a22195f27e84)
