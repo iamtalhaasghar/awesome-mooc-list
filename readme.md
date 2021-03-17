@@ -1,10 +1,8 @@
 This repo contains the list of mooc (massive open online) courses i have done so far.
 # [Digiskills](https://www.digiskills.pk/)
 1. [Freelancing by Sir Hisham Sarwar](https://www.digiskills.pk/CourseDetails.aspx?Id=FRL101) 
-	* [View Certificate](https://github.com/iamtalhaasghar/My-Certificates/blob/master/Digiskills/Digiskills%20Freelancing%20Certificate.pdf)
 	* [View Video List](https://github.com/iamtalhaasghar/courses-i-have-done/blob/master/resources/Digiskills%20Freelancing%20by%20Sir%20Hisham%20Sarwar.txt)
 2. [SEO by Sir Usman Latif](https://www.digiskills.pk/CourseDetails.aspx?Id=SEO101)
-	* [View Certificate](https://github.com/iamtalhaasghar/My-Certificates/blob/master/Digiskills/Digiskills%20SEO%20Certification.pdf)
 	* [View Video List](https://github.com/iamtalhaasghar/courses-i-have-done/blob/master/resources/Digiskills%20SEO%20by%20Sir%20Usman%20Latif.txt)
 # [Techlore](https://techlore.tech/)
 1. [Go Incognito - A guide to Security Privacy & Anonymity](https://techlore.tech/goincognito.html)
@@ -18,6 +16,7 @@ This repo contains the list of mooc (massive open online) courses i have done so
 	* [View Certificate](https://www.bitdegree.org/certificates/7d2de4f8-6947-489e-bc63-a22195f27e84)
 # [Deep Learning Tech](https://www.youtube.com/c/DeepLearningTech)
 1. [Foundations of Artificial Intelligence](https://www.youtube.com/playlist?list=PLzTwljMDC2vw_najv2N7s_Ey_XXtNnu1k)
-	* [View Certificate](https://github.com/iamtalhaasghar/My-Certificates/blob/master/Deep%20Learning%20Tech/Foundations%20of%20Artificial%20Intelligence.pdf)
 2. [Machine Learning Models](https://www.youtube.com/playlist?list=PLzTwljMDC2vxii9s2Nr_fehMBoWXTtjpu)
-	* [View Certificate](https://github.com/iamtalhaasghar/My-Certificates/blob/master/Deep%20Learning%20Tech/MACHINE%20LEARNING.png)
+
+# [Channel 9 MSDN](https://channel9.msdn.com/)
+1. [Javascript Fundamental: Development for Absolute Beginners](https://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners)
