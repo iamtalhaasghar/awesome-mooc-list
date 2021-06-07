@@ -1,4 +1,6 @@
-This repo contains the list of mooc (massive open online) courses i have done so far and found so helpful that I am recommending them to all of you.
+This repo contains the list of **absolutely FREE** mooc (massive open online) courses i have done so far and found so helpful that I am recommending them to all of you.
+
+NOTE: You might need to create a new account for some platforms but stay assured that sign up and course contents listed below are still free.
 
 # Web Development
 ### [Channel 9 MSDN](https://channel9.msdn.com/)
