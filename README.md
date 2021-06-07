@@ -34,3 +34,5 @@ This repo contains the list of mooc (massive open online) courses i have done so
 1. [Foundations of Artificial Intelligence](https://www.youtube.com/playlist?list=PLzTwljMDC2vw_najv2N7s_Ey_XXtNnu1k)
 2. [Machine Learning Models](https://www.youtube.com/playlist?list=PLzTwljMDC2vxii9s2Nr_fehMBoWXTtjpu)
 
+# Mobile App Development
+[Moved to another; separate repo](https://github.com/iamtalhaasghar/awesome-mobile-app-development#readme)
