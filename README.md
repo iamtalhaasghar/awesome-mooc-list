@@ -6,6 +6,7 @@ NOTE: You might need to create a new account for some platforms but stay assured
 ### [Channel 9 MSDN](https://channel9.msdn.com/)
 1. [HTML5 & CSS3 Fundamentals: Development for Absolute Beginners by Bob Tabor](https://channel9.msdn.com/Series/HTML5-CSS3-Fundamentals-Development-for-Absolute-Beginners)
 2. [Javascript Fundamental: Development for Absolute Beginners by Bob Tabor](https://channel9.msdn.com/Series/Javascript-Fundamentals-Development-for-Absolute-Beginners)
+   - [View Source Code](https://github.com/iamtalhaasghar/channel9-javascript-fundamentals-by-bob-tabor)
 
 # Freelancing
 ### [Digiskills](https://www.digiskills.pk/)
